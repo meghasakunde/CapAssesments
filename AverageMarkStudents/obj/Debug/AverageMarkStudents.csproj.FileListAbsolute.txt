@@ -1,0 +1,6 @@
+C:\Users\VMUser\source\repos\Calculator\AverageMarkStudents\bin\Debug\AverageMarkStudents.exe.config
+C:\Users\VMUser\source\repos\Calculator\AverageMarkStudents\bin\Debug\AverageMarkStudents.exe
+C:\Users\VMUser\source\repos\Calculator\AverageMarkStudents\bin\Debug\AverageMarkStudents.pdb
+C:\Users\VMUser\source\repos\Calculator\AverageMarkStudents\obj\Debug\AverageMarkStudents.csproj.CoreCompileInputs.cache
+C:\Users\VMUser\source\repos\Calculator\AverageMarkStudents\obj\Debug\AverageMarkStudents.exe
+C:\Users\VMUser\source\repos\Calculator\AverageMarkStudents\obj\Debug\AverageMarkStudents.pdb

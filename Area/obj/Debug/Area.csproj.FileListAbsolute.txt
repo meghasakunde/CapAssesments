@@ -1,0 +1,7 @@
+C:\Users\VMUser\source\repos\Calculator\Area\bin\Debug\Area.exe.config
+C:\Users\VMUser\source\repos\Calculator\Area\bin\Debug\Area.exe
+C:\Users\VMUser\source\repos\Calculator\Area\bin\Debug\Area.pdb
+C:\Users\VMUser\source\repos\Calculator\Area\obj\Debug\Area.csproj.AssemblyReference.cache
+C:\Users\VMUser\source\repos\Calculator\Area\obj\Debug\Area.csproj.CoreCompileInputs.cache
+C:\Users\VMUser\source\repos\Calculator\Area\obj\Debug\Area.exe
+C:\Users\VMUser\source\repos\Calculator\Area\obj\Debug\Area.pdb

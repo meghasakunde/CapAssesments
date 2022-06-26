@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Employee/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Employee.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Employee.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Employee/1.0.0": {
+      "type": "project",
+      "path": "../Employee/Employee.csproj",
+      "msbuildProject": "../Employee/Employee.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Employee >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\VMUser\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\VMUser\\source\\repos\\Calculator\\LibraryEmp\\LibraryEmp.csproj",
+      "projectName": "LibraryEmp",
+      "projectPath": "C:\\Users\\VMUser\\source\\repos\\Calculator\\LibraryEmp\\LibraryEmp.csproj",
+      "packagesPath": "C:\\Users\\VMUser\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\VMUser\\source\\repos\\Calculator\\LibraryEmp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\VMUser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\VMUser\\source\\repos\\Calculator\\Employee\\Employee.csproj": {
+              "projectPath": "C:\\Users\\VMUser\\source\\repos\\Calculator\\Employee\\Employee.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

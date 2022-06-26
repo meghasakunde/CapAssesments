@@ -1,0 +1,12 @@
+C:\Users\VMUser\source\repos\Calculator\Employee\bin\Debug\net5.0\Employee.deps.json
+C:\Users\VMUser\source\repos\Calculator\Employee\bin\Debug\net5.0\Employee.dll
+C:\Users\VMUser\source\repos\Calculator\Employee\bin\Debug\net5.0\ref\Employee.dll
+C:\Users\VMUser\source\repos\Calculator\Employee\bin\Debug\net5.0\Employee.pdb
+C:\Users\VMUser\source\repos\Calculator\Employee\obj\Debug\net5.0\Employee.csproj.AssemblyReference.cache
+C:\Users\VMUser\source\repos\Calculator\Employee\obj\Debug\net5.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VMUser\source\repos\Calculator\Employee\obj\Debug\net5.0\Employee.AssemblyInfoInputs.cache
+C:\Users\VMUser\source\repos\Calculator\Employee\obj\Debug\net5.0\Employee.AssemblyInfo.cs
+C:\Users\VMUser\source\repos\Calculator\Employee\obj\Debug\net5.0\Employee.csproj.CoreCompileInputs.cache
+C:\Users\VMUser\source\repos\Calculator\Employee\obj\Debug\net5.0\Employee.dll
+C:\Users\VMUser\source\repos\Calculator\Employee\obj\Debug\net5.0\ref\Employee.dll
+C:\Users\VMUser\source\repos\Calculator\Employee\obj\Debug\net5.0\Employee.pdb
