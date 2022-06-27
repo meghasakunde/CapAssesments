@@ -1,0 +1,15 @@
+C:\Users\VMUser\source\repos\Calculator\staticmethod3\bin\Debug\net5.0\staticmethod3.exe
+C:\Users\VMUser\source\repos\Calculator\staticmethod3\bin\Debug\net5.0\staticmethod3.deps.json
+C:\Users\VMUser\source\repos\Calculator\staticmethod3\bin\Debug\net5.0\staticmethod3.runtimeconfig.json
+C:\Users\VMUser\source\repos\Calculator\staticmethod3\bin\Debug\net5.0\staticmethod3.runtimeconfig.dev.json
+C:\Users\VMUser\source\repos\Calculator\staticmethod3\bin\Debug\net5.0\staticmethod3.dll
+C:\Users\VMUser\source\repos\Calculator\staticmethod3\bin\Debug\net5.0\ref\staticmethod3.dll
+C:\Users\VMUser\source\repos\Calculator\staticmethod3\bin\Debug\net5.0\staticmethod3.pdb
+C:\Users\VMUser\source\repos\Calculator\staticmethod3\obj\Debug\net5.0\staticmethod3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VMUser\source\repos\Calculator\staticmethod3\obj\Debug\net5.0\staticmethod3.AssemblyInfoInputs.cache
+C:\Users\VMUser\source\repos\Calculator\staticmethod3\obj\Debug\net5.0\staticmethod3.AssemblyInfo.cs
+C:\Users\VMUser\source\repos\Calculator\staticmethod3\obj\Debug\net5.0\staticmethod3.csproj.CoreCompileInputs.cache
+C:\Users\VMUser\source\repos\Calculator\staticmethod3\obj\Debug\net5.0\staticmethod3.dll
+C:\Users\VMUser\source\repos\Calculator\staticmethod3\obj\Debug\net5.0\ref\staticmethod3.dll
+C:\Users\VMUser\source\repos\Calculator\staticmethod3\obj\Debug\net5.0\staticmethod3.pdb
+C:\Users\VMUser\source\repos\Calculator\staticmethod3\obj\Debug\net5.0\staticmethod3.genruntimeconfig.cache
